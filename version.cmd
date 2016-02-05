@@ -1,1 +1,1 @@
-@echo "VERSION 1;
+@echo "VERSION 2;
