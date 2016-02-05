@@ -1,1 +1,1 @@
-@echo function1
+@echo function2
